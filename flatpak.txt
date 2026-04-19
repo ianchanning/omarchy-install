@@ -1,0 +1,41 @@
+Boxy SVG	com.boxy_svg.BoxySVG	4.105.2	stable	user
+calibre	com.calibre_ebook.calibre	9.7.0	stable	user
+Mandelbulber2	com.github.buddhi1980.mandelbulber2	2.33	stable	user
+Slack	com.slack.Slack	4.47.69	stable	user
+Spotify	com.spotify.Client	1.2.84.475.ga1a748ff	stable	user
+PDF Mix Tool	eu.scarpetta.PDFMixTool	1.2.1	stable	user
+DBeaver Community	io.dbeaver.DBeaverCommunity	26.0.2	stable	user
+Obsidian	md.obsidian.Obsidian	1.12.7	stable	user
+Chromium Web Browser	org.chromium.Chromium	147.0.7727.101	stable	user
+Codecs	org.chromium.Chromium.Codecs		stable	user
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.30	24.08	user
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-25.08.9	25.08	user
+Mesa	org.freedesktop.Platform.GL.default	25.3.5	24.08	user
+Mesa (Extra)	org.freedesktop.Platform.GL.default	25.3.5	24.08extra	user
+Mesa	org.freedesktop.Platform.GL.default	26.0.4	25.08	user
+Mesa (Extra)	org.freedesktop.Platform.GL.default	26.0.4	25.08-extra	user
+Codecs Extra Extension	org.freedesktop.Platform.codecs-extra		25.08-extra	user
+FFmpeg extension with extra codecs	org.freedesktop.Platform.ffmpeg-full		24.08	user
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	user
+openh264	org.freedesktop.Platform.openh264	2.4.1	2.4.1	user
+openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	user
+GNU Image Manipulation Program	org.gimp.GIMP	3.2.4	stable	user
+HEIC	org.gimp.GIMP.HEIC		stable	user
+Déjà Dup Backups	org.gnome.DejaDup	50.0	stable	user
+GNOME Application Platform version 49	org.gnome.Platform		49	user
+GNOME Application Platform version 50	org.gnome.Platform		50	user
+Meld	org.gnome.meld	3.22.3	stable	user
+Pop Gtk theme	org.gtk.Gtk3theme.Pop		3.22	user
+Inkscape	org.inkscape.Inkscape	1.4.3	stable	user
+KDE Application Platform	org.kde.Platform		5.15-24.08	user
+KDE Application Platform	org.kde.Platform		5.15-25.08	user
+KDE Application Platform	org.kde.Platform		6.10	user
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-23.08	user
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	user
+QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-23.08	user
+QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	user
+QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-25.08	user
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-23.08	user
+Thunderbird	org.mozilla.Thunderbird	140.9.1esr	stable	user
+Signal Desktop	org.signal.Signal	8.7.0	stable	user
+Zoom	us.zoom.Zoom	7.0.0.1666	stable	user
